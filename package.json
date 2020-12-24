@@ -30,14 +30,14 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.1",
-    "axios": "^0.20.0",
-    "bootstrap": "4.5.2",
+    "axios": "^0.21.1",
+    "bootstrap": "4.5.3",
     "jquery": "^3.5.1",
     "jquery.easing": "^1.4.1",
     "popper.js": "^1.15.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^2.26.13",
     "del": "^6.0.0",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "7.0.1",
